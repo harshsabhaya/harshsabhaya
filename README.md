@@ -4,9 +4,7 @@
 - 👨‍💻 All of my projects are available at [https://harshsabhaya.github.io/](https://harshsabhaya.github.io/)
 
 - 📫 How to reach me **harshsabhaya10@gmail.com**
-
-- 📄 Know about my experiences [https://harsh-sabhaya-resume.tiiny.site/](https://harsh-sabhaya-resume.tiiny.site/)
-
+  
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://dev.to/https://devpost.com/harshsabhaya10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="https://devpost.com/harshsabhaya10" height="30" width="40" /></a>
